@@ -80,10 +80,6 @@ When enemies go off-screen, see their **hero icon with circular HP bar** (green�
 Reads internal game timers for **pixel-accurate skill cooldown tracking**. Know exactly when enemy ultimates are ready.
 
 </td>
-<td width="50%">
-</td>
-</tr>
-</table>
 
 ---
 
@@ -191,6 +187,6 @@ Redistribution or modification is not permitted.
 
 Made with ❤️ for the MLBB community
 
-**v1.0.1** | 2026
+**v1.0.0** | 2026
 
 </div>
