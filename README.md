@@ -81,10 +81,6 @@ Reads internal game timers for **pixel-accurate skill cooldown tracking**. Know 
 
 </td>
 <td width="50%">
-
-### 📷 **Real Camera System**
-Uses **authentic game depth values** instead of random offsets. Smooth, stable, and doesn't break UI elements.
-
 </td>
 </tr>
 </table>
@@ -94,11 +90,11 @@ Uses **authentic game depth values** instead of random offsets. Smooth, stable, 
 ## 📱 Requirements
 
 ```yaml
-Platform:      Android 8.0+ (Oreo and above)
+Platform:      Android
 Architecture:  ARM64 / ARM64-v8a
-Root Access:   Required (Magisk)
+Root Access:   Required
 Module Type:   Zygisk
-Game Version:  MLBB Latest (2026)
+Game Version:  v2.1.88.12027
 ```
 
 ### ⚙️ Installation Requirements
@@ -135,7 +131,7 @@ Game Version:  MLBB Latest (2026)
 | MLBB Compatibility | ✅ **Latest Version** |
 
 **Last Updated:** August 6, 2026  
-**Tested On:** MLBB v1.8.xx (2026)
+**Tested On:** MLBB v2.1.88.12027
 
 ---
 
@@ -157,18 +153,6 @@ No. Root access with Magisk and Zygisk is required for the module to function.
 <summary><b>Which Android versions are supported?</b></summary>
 <br>
 Android 8.0 (Oreo) and above. ARM64 architecture required.
-</details>
-
-<details>
-<summary><b>Can I customize the colors?</b></summary>
-<br>
-Yes! Full RGB customization available in the Colors tab for all ESP elements.
-</details>
-
-<details>
-<summary><b>Does camera height break the UI?</b></summary>
-<br>
-No. Unlike other mods, we use real game camera values that don't interfere with UI elements.
 </details>
 
 ---
@@ -196,7 +180,7 @@ This software is provided "as is" without warranty of any kind.
 Source code is not publicly available.
 Redistribution or modification is not permitted.
 
-© 2026 rensize.cc - All Rights Reserved
+© 2026 rensize.cc
 ```
 
 ---
