@@ -25,18 +25,6 @@ By downloading and using this module, you acknowledge these risks.
 
 ---
 
-## 📜 License
-
-```
-This software is provided "as is" without warranty of any kind.
-Source code is not publicly available.
-Redistribution or modification is not permitted.
-
-© 2026 rensize.cc
-```
-
----
-
 <div align="center">
 
 ### 🌟 rensize.cc
