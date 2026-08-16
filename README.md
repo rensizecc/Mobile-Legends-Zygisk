@@ -4,10 +4,10 @@
 
 ### Advanced Visual Overlay for Mobile Legends: Bang Bang
 
-[![Platform](https://img.shields.io/badge/Platform-Android-orange?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![Version](https://img.shields.io/badge/Version-1.0.1fix-blue?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)](#)
-[![Game](https://img.shields.io/badge/Game-MLBB-orange?style=for-the-badge)](https://www.mobilelegends.com/)
+[![Platform](https://img.shields.io/badge/Platform-Android-black?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+[![Version](https://img.shields.io/badge/Version-1.0.1fix-black?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Working-success-black?style=for-the-badge)](#)
+[![Game](https://img.shields.io/badge/Game-MLBB-black?style=for-the-badge)](https://www.mobilelegends.com/)
 
 ## ⚠️ Disclaimer
 
