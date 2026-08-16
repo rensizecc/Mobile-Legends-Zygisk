@@ -29,8 +29,4 @@ By downloading and using this module, you acknowledge these risks.
 
 ### 🌟 rensize.cc
 
-Made with ❤️ for the MLBB community
-
-**v1.0.0** | 2026
-
 </div>
